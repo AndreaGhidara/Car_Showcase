@@ -5,6 +5,8 @@ import Footer from './Footer';
 import SerchBar from './SerchBar';
 import CustomFilter from './CustomFilter';
 import SearchMenufacturer from './SearchMenufacturer';
+import CarCard from './CarCard';
+import CarDetails from './CarDetails'
 
 
 
@@ -15,5 +17,7 @@ export {
     Footer,
     SerchBar,
     CustomFilter,
-    SearchMenufacturer
+    SearchMenufacturer,
+    CarCard,
+    CarDetails
 }
