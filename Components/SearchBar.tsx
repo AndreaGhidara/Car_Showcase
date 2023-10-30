@@ -3,7 +3,7 @@
 import React, { useState } from 'react';
 import { useRouter } from 'next/navigation';
 
-import { SearchMenufacturer } from './';
+import { SearchMenufacturer } from '.';
 import Image from 'next/image';
 
 const SearchButton = ({ otherClasses }: { otherClasses: string }) => (
